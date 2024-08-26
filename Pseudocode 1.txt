@@ -1,0 +1,11 @@
+Input number1
+Input number2
+Input number3
+
+IF (number1>number2) && (number1>number3),
+print"Number1 is greatest"
+
+IF (number2>number1) && (number2>number3),
+print"Number2 is greatest"
+
+Otherwise, print"Number3 is greatest"
