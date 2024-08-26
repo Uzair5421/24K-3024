@@ -1,0 +1,23 @@
+Input num1.
+Input num2.
+Input Operation.
+IF(Operation=="+")
+{
+sum=num1+num2
+display "sum"
+}
+Else-IF(Operation=="-")
+{
+sub=num1-num2
+display "sub"
+}
+Else-IF(Operation=="*")
+{
+mul=num1-num2
+display "mul"
+}
+Else-IF(Operation=="/")
+{
+div=num1/num2
+display "div"
+}
