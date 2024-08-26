@@ -1,0 +1,11 @@
+Input num1
+Input num2
+Input operator
+
+IF (operator=="+")
+sum=num1+num2
+print"sum"
+
+Else-IF(operator=="-")
+sub=num1-num2
+print"sub"
