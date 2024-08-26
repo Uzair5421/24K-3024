@@ -1,0 +1,14 @@
+Ask user to enter num1(From 1 to 12).
+
+ IF(num1=1),display "January".
+Else-IF(num1=2),display "February".
+Else-IF(num1=3),display "March".
+Else-IF(num1=4),display "April".
+Else-IF(num1=5),display "May".
+Else-IF(num1=6),display "June".
+Else-IF(num1=7),display "July".
+Else-IF(num1=8),display "August".
+Else-IF(num1=9),display "September".
+Else-IF(num1=10),display "Octuber".
+Else-IF(num1=11),display "November".
+Else-IF(num1=12),display "December".
